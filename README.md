@@ -1,1 +1,2 @@
 # Hurst_PCA_ICA_Relief
+#自己写的对Hurst指数的Relief方法，还有第三方函数PCA_ICA的应用
